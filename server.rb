@@ -1,3 +1,5 @@
+# source https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
+
 require 'sinatra'
 require 'octokit'
 require 'dotenv/load' # Manages environment variables
